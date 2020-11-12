@@ -44,6 +44,7 @@ Muet test portal developed for an Mehran University of Engineering and Technolog
 ### Installtion
 
 1. Download as as Zip or Clone this project
+    https://github.com/17cs45/WE_PROJECT
 
 2. Extract and Move this project to Root Directory
 ```
