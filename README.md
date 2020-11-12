@@ -72,3 +72,9 @@ This is a very simple Content Management System (No advanced stuffs).
 2. Login with the Username and Password 
 >*[Username: admin, Password: admin]*
 3. Hola! You're logged in. Now you can manage categories, posts and users.
+
+**Hosted Link**
+https://muettestportal.000webhostapp.com/
+## CMS - Admin Panel
+https://muettestportal.000webhostapp.com/admin
+
